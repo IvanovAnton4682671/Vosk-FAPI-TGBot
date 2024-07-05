@@ -5,7 +5,7 @@
 1. Клонирование репозитория:
    ```bash
    git clone https://github.com/IvanovAnton4682671/Vosk-FAPI-TGBot.git
-   cd Spch-Rec-FAPI-TGBot
+   cd Vosk-FAPI-TGBot
    ```
 
 2. Создание файла `.env` на основе `.env.example` (не забудьте указать токен бота):
